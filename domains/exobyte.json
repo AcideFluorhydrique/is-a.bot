@@ -5,5 +5,6 @@
   },
   "records": {
     "CNAME": "exobyte-bridge.onrender.com"
-  }
+  },
+  "proxied": false
 }
